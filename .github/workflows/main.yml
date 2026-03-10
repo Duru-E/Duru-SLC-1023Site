@@ -16,4 +16,4 @@ jobs:
           uses: JamesIves/github-pages-deploy-action@v4
           with:
              branch: gh-pages # The branch where GitHub Pages serves the site, Guess who the user was…
-                folder: . # Deploy everything in the repository root
+             folder: . # Deploy everything in the repository root
